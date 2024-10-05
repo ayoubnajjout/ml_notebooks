@@ -30,34 +30,6 @@ pip install -r requirements.txt
    ```
 4. Open the `.ipynb` file and run the cells to follow along with the project.
 
-## Folder Structure
-
-Each folder follows the same structure:
-
-```
-project-folder/
-│
-├── data/                   # Dataset used for the project
-│   └── data-file.csv        # Example dataset file
-│
-├── notebook.ipynb           # Jupyter notebook implementing the project
-│
-└── requirements.txt         # List of dependencies to install
-```
-
-Example Folder:
-
-```
-linear-regression/
-│
-├── data/
-│   └── house_prices.csv
-│
-├── linear_regression.ipynb
-│
-└── requirements.txt
-
-```
 
 
 
