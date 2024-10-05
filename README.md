@@ -28,7 +28,7 @@ pip install -r requirements.txt
    ```bash
    jupyter notebook
    ```
-4.Open the .ipynb file and run the cells to follow along with the project.
+4. Open the .ipynb file and run the cells to follow along with the project.
 
 ## Folder Structure
 
